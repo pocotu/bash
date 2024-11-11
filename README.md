@@ -2,8 +2,6 @@
 
 Custom termux bash.bashrc file with preset aliases and terminal splash screen. 
 
-![IMG_20221205_112842](https://user-images.githubusercontent.com/107336444/205568214-a3ba69e7-a8ea-42e3-947a-59cec226e6ab.jpg)
-
 ## Installation:
 
 1. Clone the repository.
