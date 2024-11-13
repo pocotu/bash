@@ -2,7 +2,8 @@
 
 # User name
 #change your user name here
-user_name="termux"
+echo "Enter your user name:"
+read user_name
 
 # Default editor
 editor="nano"
